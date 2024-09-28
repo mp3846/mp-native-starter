@@ -1,0 +1,12 @@
+{
+	"name": "mp-native-starter",
+	"version": "1.0.0",
+	"description": "CLI tool to create a react native start template",
+	"type": "module",
+	"main": "native-starter.js",
+	"bin": {
+		"native-starter": "native-starter.js"
+	},
+	"author": "MP",
+	"license": "MIT"
+}
